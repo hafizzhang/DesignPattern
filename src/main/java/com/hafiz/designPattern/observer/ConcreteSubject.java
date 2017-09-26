@@ -1,4 +1,4 @@
-package com.hafiz.www.observerPattern;
+package com.hafiz.designPattern.observer;
 
 /**
  * Desc:具体主题实现类
