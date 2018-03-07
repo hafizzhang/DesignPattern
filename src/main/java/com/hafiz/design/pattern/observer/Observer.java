@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.observer;
+package com.hafiz.design.pattern.observer;
 
 /**
  * Desc:观察者接口

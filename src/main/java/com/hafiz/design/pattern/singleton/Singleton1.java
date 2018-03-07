@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.singleton;
+package com.hafiz.design.pattern.singleton;
 
 /**
  * Desc: 单例模式-饿汉式

@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.observer;
+package com.hafiz.design.pattern.observer;
 
 import java.util.Vector;
 

@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.singleton;
+package com.hafiz.design.pattern.singleton;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

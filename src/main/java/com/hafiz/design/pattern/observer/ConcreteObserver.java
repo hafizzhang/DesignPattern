@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.observer;
+package com.hafiz.design.pattern.observer;
 
 /**
  * Desc:具体观察者实现类

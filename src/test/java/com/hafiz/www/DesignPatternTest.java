@@ -1,13 +1,13 @@
 package com.hafiz.www;
 
-import com.hafiz.designPattern.observer.ConcreteObserver;
-import com.hafiz.designPattern.observer.ConcreteSubject;
-import com.hafiz.designPattern.singleton.Singleton1;
-import com.hafiz.designPattern.singleton.Singleton2;
-import com.hafiz.designPattern.singleton.Singleton3;
-import com.hafiz.designPattern.singleton.Singleton4;
-import com.hafiz.designPattern.singleton.Singleton4Child1;
-import com.hafiz.designPattern.singleton.SingletonChild2;
+import com.hafiz.design.pattern.observer.ConcreteObserver;
+import com.hafiz.design.pattern.observer.ConcreteSubject;
+import com.hafiz.design.pattern.singleton.Singleton1;
+import com.hafiz.design.pattern.singleton.Singleton2;
+import com.hafiz.design.pattern.singleton.Singleton3;
+import com.hafiz.design.pattern.singleton.Singleton4;
+import com.hafiz.design.pattern.singleton.Singleton4Child1;
+import com.hafiz.design.pattern.singleton.SingletonChild2;
 import org.junit.Test;
 
 import java.util.Map;

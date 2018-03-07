@@ -1,4 +1,4 @@
-package com.hafiz.designPattern.singleton;
+package com.hafiz.design.pattern.singleton;
 
 /**
  * Desc:
@@ -7,6 +7,6 @@ package com.hafiz.designPattern.singleton;
 public class SingletonChild2 extends Singleton4 {
 
     public static SingletonChild2 getInstance() {
-        return (SingletonChild2) Singleton4.getInstance("com.hafiz.designPattern.singleton.SingletonChild2");
+        return (SingletonChild2) getInstance("SingletonChild2");
     }
 }
